@@ -1,0 +1,83 @@
+ <section class = "section2" id = "rent">
+        <div class="wedo">
+            <div class="container">
+                <div class="section_header2">
+                    <h2 class = "section_title2">Аренда инструментов</h2>
+                        <div class="section_text2">
+                            <p>Посмотреть цены на аренду</p>
+                        </div>
+                    <a href = "#" class = "menu_btn2">Цены</a>
+                </div>
+            </div>
+            <div class="menu2">
+                <div class="accordion2">
+                    <div class="accordion_item2" data-collapse = "#title_1">
+                        <div class="accordion_header2">
+                            <div class="accordion_title2">Труба профильная квадратная  ГОСТ  8639-82</div>
+                            <!--<div class="accordion__x">x</div>-->
+                        </div>
+                        <div class="accordion_content2" id = "title_1">
+                            <table>
+                                <tr><th>Наименование</th><th>Размер</th><th>Цена за 1 п.м.</th><th>Нарезка</th></tr>
+                                <tr><td>Труба 15 15 1.5</td><td>6</td><td>35.50</td><td>5.00</td></tr>
+                                <tr><td>фТруба 20 20 1.5</td><td>6</td><td>46.00</td><td>5.00</td></tr>
+                                <tr><td>Труба 20 20 2.0</td><td>6</td><td>53.50</td><td>5.00</td></tr>
+                                <tr><td>Труба 25 25 1.5</td><td>6</td><td>59.00</td><td>5.00</td></tr>
+                                <tr><td>Труба 30 30 1.5</td><td>6</td><td>69.80</td><td>5.00</td></tr>
+                                <tr><td>Труба 40 40 1.5</td><td>6</td><td>95.50</td><td>8.00</td></tr>
+                                <tr><td>Труба 40 40 2.0</td><td>6</td><td>112.00</td><td>8.00</td></tr>
+                                <tr><td>Труба 50 50 2.0</td><td>6</td><td>144.40</td><td>12.00</td></tr>
+                                <tr><td>Труба 60 60 2.0</td><td>6</td><td>172.00</td><td>12.00</td></tr>
+                                <tr><td>Труба 60 60 3.0</td><td>6</td><td>241.00</td><td>12.00</td></tr>
+                                <tr><td>Труба 80 80 3.0</td><td>12</td><td>334.00</td><td>20.00</td></tr>
+                                <tr><td>Труба 100 100 3.0</td><td>12</td><td>423.00</td><td>20.00</td></tr>
+                                <tr><td>Труба 120 120 4.0</td><td>12</td><td>690.00</td><td>25.00</td></tr>
+                                <tr><td>Труба 180 180 5.0</td><td>6</td><td>1248.00</td><td>25.00</td></tr>
+                            </table>
+                        </div>
+                    </div>
+
+                    <div class="accordion_item2" data-collapse = "#title_2">
+                        <div class="accordion_header2">
+                            <div class="accordion_title2">Title 2</div>
+                            <!--<div class="accordion__x">x</div>-->
+                        </div>
+                        <div class="accordion_content2" id = "title_2">
+                            <p>Это первое преимуществоfdg gfdgdfgdfgdg dgdgdfgdfgfdgf dgfdgdfgdfgfdg</p>
+                        </div>
+                    </div>
+
+                    <div class="accordion_item2" data-collapse = "#title_3">
+                        <div class="accordion_header2">
+                            <div class="accordion_title2">Title 3</div>
+                            <!--<div class="accordion__x">x</div>-->
+                        </div>
+                        <div class="accordion_content2" id = "title_3">
+                            <p>Это первое преимуществоfdg gfdgdfgdfgdg dgdgdfgdfgfdgf dgfdgdfgdfgfdg</p>
+                        </div>
+                    </div>
+
+                    <div class="accordion_item2" data-collapse = "#title_3">
+                        <div class="accordion_header2">
+                            <div class="accordion_title2">Title 3</div>
+                            <!--<div class="accordion__x">x</div>-->
+                        </div>
+                        <div class="accordion_content2" id = "title_3">
+                            <p>Это первое преимуществоfdg gfdgdfgdfgdg dgdgdfgdfgfdgf dgfdgdfgdfgfdg</p>
+                        </div>
+                    </div>
+
+                    <div class="accordion_item2" data-collapse = "#title_3">
+                        <div class="accordion_header2">
+                            <div class="accordion_title2">Title 3</div>
+                            <!--<div class="accordion__x">x</div>-->
+                        </div>
+                        <div class="accordion_content2" id = "title_3">
+                            <p>Это первое преимуществоfdg gfdgdfgdfgdg dgdgdfgdfgfdgf dgfdgdfgdfgfdg</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+     </section>
